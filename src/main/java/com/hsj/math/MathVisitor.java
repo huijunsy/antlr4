@@ -3,7 +3,6 @@ package com.hsj.math;
 
 import org.antlr.v4.runtime.tree.ParseTreeVisitor;
 
-package com.zetyun.aiops.core.math;
 
 /**
  * This interface defines a complete generic visitor for a parse tree produced

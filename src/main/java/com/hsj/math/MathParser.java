@@ -12,7 +12,6 @@ import org.antlr.v4.runtime.tree.TerminalNode;
 
 import java.util.List;
 
-package com.zetyun.aiops.core.math;
 
 @SuppressWarnings({"all", "warnings", "unchecked", "unused", "cast"})
 public class MathParser extends Parser {

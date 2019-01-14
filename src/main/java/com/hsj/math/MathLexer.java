@@ -8,7 +8,7 @@ import org.antlr.v4.runtime.atn.LexerATNSimulator;
 import org.antlr.v4.runtime.atn.PredictionContextCache;
 import org.antlr.v4.runtime.dfa.DFA;
 
-package com.zetyun.aiops.core.math;
+
 
 @SuppressWarnings({"all", "warnings", "unchecked", "unused", "cast"})
 public class MathLexer extends Lexer {
